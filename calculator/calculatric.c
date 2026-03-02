@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
-#include<stdbool.h>
 
 int main(){
     float nb1,nb2;
@@ -49,4 +48,5 @@ int main(){
     } while(calcul=='y'||calcul=='Y');
 
     return 0;
+
 }
